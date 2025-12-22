@@ -6,7 +6,7 @@ http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png",CT 2  HD
 http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT24.png",CT 24  HD
-http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
+http://88.212.15.47/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT.SPORT.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT4.png",CT Sport  HD
 http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT.DÉČKO.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT5.png",CT :D  HD
@@ -45,57 +45,57 @@ http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
 http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",TV Barrandov  HD
 http://88.212.15.47/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
+#EXTINF:-1 tvg-id="JEDNOTKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Dvojka.png",Dvojka  HD
+#EXTINF:-1 tvg-id="DVOJKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Dvojka.png",Dvojka  HD
 http://88.212.15.47/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/RTVS24.png",RTVS 24  HD
+#EXTINF:-1 tvg-id=":24.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/RTVS24.png",RTVS 24  HD
 http://88.212.15.47/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/RTVSSport.png",RTVS Sport  HD
+#EXTINF:-1 tvg-id=":ŠPORT.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/RTVSSport.png",RTVS Sport  HD
 http://88.212.15.47/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Markiza.png",Markiza  HD
+#EXTINF:-1 tvg-id="MARKÍZA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Markiza.png",Markiza  HD
 http://88.212.15.47/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlS90YRT/afe4.png",Doma  HD
+#EXTINF:-1 tvg-id="DOMA.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlS90YRT/afe4.png",Doma  HD
 http://88.212.15.47/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiB1QZzVY0YQz/c626.png",Dajto  HD
+#EXTINF:-1 tvg-id="DAJTO.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiB1QZzVY0YQz/c626.png",Dajto  HD
 http://88.212.15.47/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiDm6VfT70YP9/c6e3.png",Krimi  HD
+#EXTINF:-1 tvg-id="MARKÍZA.KRIMI.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiDm6VfT70YP9/c6e3.png",Krimi  HD
 http://88.212.15.47/live/test_markiza_krimi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YD2/706c.png",JOJ  HD
+#EXTINF:-1 tvg-id="JOJ.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YD2/706c.png",JOJ  HD
 http://88.212.15.47/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiC6T09Tw0Wr9/7060.png",JOJ Cinema  HD
+#EXTINF:-1 tvg-id="JOJ.CINEMA.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiC6T09Tw0Wr9/7060.png",JOJ Cinema  HD
 http://88.212.15.47/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiC6T09Tx0YDG/8058.png",JOJ Plus  HD
+#EXTINF:-1 tvg-id="PLUS.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiC6T09Tx0YDG/8058.png",JOJ Plus  HD
 http://88.212.15.47/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiB1QZzTu0Tff/df25.png",JOJ Svet  HD
+#EXTINF:-1 tvg-id="JOJ.SVET.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiB1QZzTu0Tff/df25.png",JOJ Svet  HD
 http://88.212.15.47/live/test_joj_svet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTT0Wxf/79c8.png",JOJ Šport  HD
+#EXTINF:-1 tvg-id="JOJ.ŠPORT.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTT0Wxf/79c8.png",JOJ Šport  HD
 http://88.212.15.47/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTT0Wxf/79c8.png",JOJ Šport 2  HD
+#EXTINF:-1 tvg-id="JOJ.ŠPORT.2.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTT0Wxf/79c8.png",JOJ Šport 2  HD
 http://88.212.15.47/live/joj_sport_2_avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlTF0YCt/f15d.png",Wau  HD
+#EXTINF:-1 tvg-id="WAU.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlTF0YCt/f15d.png",Wau  HD
 http://88.212.15.47/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491TD0TEH/5b68.png",Jojko  HD
+#EXTINF:-1 tvg-id="JOJKO.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491TD0TEH/5b68.png",Jojko  HD
 http://88.212.15.47/live/test_jojko_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r100xn/e6a56533-8bed-450d-8747-82e66768ad13.png",RiK TV  HD
+#EXTINF:-1 tvg-id="TV.RIK.CZ" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r100xn/e6a56533-8bed-450d-8747-82e66768ad13.png",RiK TV  HD
 http://88.212.15.47/live/test_rik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/lala.png",LALA TV  HD
+#EXTINF:-1 tvg-id="LALA.TV.CZ" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/lala.png",LALA TV  HD
 http://88.212.15.47/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlTI0XRR/a2d3.png",TA3  HD
+#EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yNzUlTI0XRR/a2d3.png",TA3  HD
 http://88.212.15.47/live/test_ta3_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491TE0U67/3b97.png",Film+  HD
+#EXTINF:-1 tvg-id="FILM+.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491TE0U67/3b97.png",Film+  HD
 http://88.212.15.47/live/test_film_plus_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiCqlhRUH0Y44/dc35.png",HBO  HD
+#EXTINF:-1 tvg-id="HBO.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiCqlhRUH0Y44/dc35.png",HBO  HD
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yXcuTTR0Y4l/2cf2.png",HBO 2  HD
+#EXTINF:-1 tvg-id="HBO.2.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yXcuTTR0Y4l/2cf2.png",HBO 2  HD
 http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxXD0Y4G/9af0.png",HBO 3  HD
+#EXTINF:-1 tvg-id="HBO.3.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxXD0Y4G/9af0.png",HBO 3  HD
 http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTP0YLT/c4b2.png",Cinemax  HD
+#EXTINF:-1 tvg-id="CINEMAX.1.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTP0YLT/c4b2.png",Cinemax  HD
 http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YKv/55b4.png",Cinemax 2  HD
+#EXTINF:-1 tvg-id=CINEMAX.2.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YKv/55b4.png",Cinemax 2  HD
 http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC CZ  HD
+#EXTINF:-1 tvg-id="AMC.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC CZ  HD
 http://88.212.15.47/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC SK  HD
+#EXTINF:-1 tvg-id="AMC.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC SK  HD
 http://88.212.15.47/live/test_amc_25p/playlist.m3u8
