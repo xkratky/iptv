@@ -45,7 +45,7 @@ http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
 http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",TV Barrandov  HD
 http://88.212.15.47/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="JEDNOTKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
+#EXTINF:-1 tvg-id="JEDNOTKA.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DVOJKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Dvojka.png",Dvojka  HD
 http://88.212.15.47/live/test_dvojka_25p/playlist.m3u8
