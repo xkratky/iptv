@@ -98,6 +98,10 @@ http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.3.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxXD0Y4G/9af0.png",HBO 3  HD
 http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.3.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxXD0Y4G/NatGeo.png",National Geographic  HD
+http://88.212.15.47/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.3.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxXD0Y4G/NatGeoWild.png",Nat Geo Wiold  HD
+http://88.212.15.47/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.1.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBVcLPTP0YLT/c4b2.png",Cinemax  HD
 http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.2.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YKv/55b4.png",Cinemax 2  HD
@@ -138,5 +142,5 @@ http://88.212.15.47/live/test_ct_sm_avc_25p/playlist.m3u8
 http://88.212.15.47/live/ct_jzc_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.SVČ.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SVC  HD
 http://88.212.15.47/live/ct_svc_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.pn¨g",Infokanál  HD
+#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
 http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
