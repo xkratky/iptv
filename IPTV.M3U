@@ -103,7 +103,7 @@ http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://88.212.15.47/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/AXN.png",AXN  HD
 http://88.212.15.47/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="FILMBOX.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Spektrum.png",Filmbox  HD
+#EXTINF:-1 tvg-id="FILMBOX.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Filmbox.png",Filmbox  HD
 http://88.212.15.47/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="SPEKTRUM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Spektrum.png",Spektrum  HD
 http://88.212.15.47/live/test_spektrum/playlist.m3u8
