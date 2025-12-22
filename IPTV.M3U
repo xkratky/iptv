@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News | HD | CZ | 
+#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1  HD
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
@@ -47,7 +47,9 @@ http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
 http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",TV Barrandov  HD
 http://88.212.15.47/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="JEDNOTKA.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
+#EXTINF:-1 tvg-id="TV.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/BarrandovKrimi.png",Barrandov Krimi  HD
+http://88.212.15.47/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="JEDNOTKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DVOJKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Dvojka.png",Dvojka  HD
 http://88.212.15.47/live/test_dvojka_25p/playlist.m3u8
@@ -103,7 +105,7 @@ http://88.212.15.47/live/test_axn/playlist.m3u8
 http://88.212.15.47/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Senzi.png",Senzi TV  HD
 http://88.212.15.47/live/test_senzi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Park.png",Park TV
+#EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Park.png",Park TV  HD
 http://88.212.15.47/live/test_park_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
