@@ -99,19 +99,39 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.2.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIiBgDPxTz0YKv/55b4.png",Cinemax 2  HD
 http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.CZ" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC CZ  HD
-http://88.212.15.47/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.HD.SK" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/nEEmzB06yBZ491Ut0X8R/5367.png",AMC SK  HD
+#EXTINF:-1 tvg-id="AMC.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/AMC.png",AMC  HD
 http://88.212.15.47/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/AXN.png",AXN  HD
+http://88.212.15.47/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOX.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Spektrum.png",Filmbox  HD
+http://88.212.15.47/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-id="SPEKTRUM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Spektrum.png",Spektrum  HD
+http://88.212.15.47/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="HISTORY.CHANNEL.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/History.png",History Channel  HD
+http://88.212.15.47/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/A11.png",A11  HD
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Senzi.png",Senzi TV  HD
+http://88.212.15.47/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="A11.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Paprika.png",TV Paprika  HD
+http://88.212.15.47/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SENZI.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Senzi.png",Senzi TV  HD
 http://88.212.15.47/live/test_senzi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="TA3.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Park.png",Park TV  HD
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Park.png",Park TV  HD
 http://88.212.15.47/live/test_park_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
+#EXTINF:-1 tvg-id="SPORT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Sport1.png",Sport 1  HD
+http://88.212.15.47/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Sport2.png",Sport 2  HD
+http://88.212.15.47/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Planespotting Praha  HD
+https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Vysoké Tatry  HD
+https://dash4.antik.sk/live/test_tatry/playlist.m3u8
 #EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
 http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",TEST 1
-http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="PRIME.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",TEST 1  HD
+http://88.212.15.47/live/test1/playlist.m3u8
+#EXTINF:-1 tvg-id="PRIMA.SK.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",TEST 2  HD
+http://88.212.15.47/live/test2/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",TEST 3  HD
+http://88.212.15.47/live/test3/playlist.m3u8
