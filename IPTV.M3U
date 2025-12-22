@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
 #EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1  HD
@@ -47,6 +48,8 @@ http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
 http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",TV Barrandov  HD
 http://88.212.15.47/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="KINO.BARRANDOV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",Kino Barrandov  HD
+http://88.212.15.47/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="BARRANDOV.KRIMI.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/BarrandovKrimi.png",Barrandov Krimi  HD
 http://88.212.15.47/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="JEDNOTKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
@@ -124,12 +127,16 @@ http://88.212.15.47/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Planespotting Praha  HD
-https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
+http://88.212.15.47/live/test_plane_spotting_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Vysoké Tatry  HD
-https://dash4.antik.sk/live/test_tatry/playlist.m3u8
-#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
-http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIMA.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
-http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
+http://88.212.15.47/live/test_tatry/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT1.JM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 JM  HD
+http://88.212.15.47/live/test_ct_jm_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT1.SM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SM  HD
+http://88.212.15.47/live/test_ct_sm_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT1.JZČ.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 JZC  HD
+http://88.212.15.47/live/ct_jzc_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT1.SVČ.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SVC  HD
+http://88.212.15.47/live/ct_svc_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.pn¨g",Infokanál  HD
 http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
