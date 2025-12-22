@@ -120,6 +120,8 @@ http://88.212.15.47/live/test_axn/playlist.m3u8
 http://88.212.15.47/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="SPEKTRUM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Spektrum.png",Spektrum  HD
 http://88.212.15.47/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="SPEKTRUM.HOME.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/SpektrumHome.png",Spektrum Home  HD
+http://88.212.15.47/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HISTORY.CHANNEL.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/History.png",History Channel  HD
 http://88.212.15.47/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/A11.png",A11  HD
