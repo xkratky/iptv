@@ -136,10 +136,6 @@ http://88.212.15.47/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.47/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
-#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Planespotting Praha  HD
-http://88.212.15.47/live/test_plane_spotting_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Vysoké Tatry  HD
-http://88.212.15.47/live/test_tatry/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.JM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 JM  HD
 http://88.212.15.47/live/test_ct_jm_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.SM.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SM  HD
@@ -148,5 +144,9 @@ http://88.212.15.47/live/test_ct_sm_avc_25p/playlist.m3u8
 http://88.212.15.47/live/ct_jzc_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.SVČ.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SVC  HD
 http://88.212.15.47/live/ct_svc_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Planespotting Praha  HD
+http://88.212.15.47/live/test_plane_spotting_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Vysoké Tatry  HD
+http://88.212.15.47/live/test_tatry/playlist.m3u8
 #EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
 http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
