@@ -1,11 +1,11 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="CNNPRIMANEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT1.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1  HD
+#EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1  HD
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT2.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png",CT 2  HD
+#EXTINF:-1 tvg-id="ČT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png",CT 2  HD
 http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT24.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT24.png",CT 24  HD
+#EXTINF:-1 tvg-id="ČT24.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT24.png",CT 24  HD
 http://88.212.15.47/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT.SPORT.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT4.png",CT Sport  HD
 http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
@@ -35,15 +35,15 @@ http://88.212.15.47/live/test_prima_plus_25p/playlist.m3u8
 http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NOVA.INT..CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaInternational.png",Nova International  HD
 http://88.212.15.47/live/test_nova_int_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVA.CINEMA.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaCinema.png",Nova Cinema  HD
+#EXTINF:-1 tvg-id="NOVACINEMA.cz" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaCinema.png",Nova Cinema  HD
 http://88.212.15.47/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVA.ACTION.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaAction.png",Nova Action  HD
+#EXTINF:-1 tvg-id="NOVAACTION.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaAction.png",Nova Action  HD
 http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVA.FUN.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaFun.png",Nova Fun  HD
+#EXTINF:-1 tvg-id="NOVAFUN.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaFun.png",Nova Fun  HD
 http://88.212.15.47/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVA.GOLD.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaKrimi.png",Nova Krimi  HD
+#EXTINF:-1 tvg-id="NOVAGOLD.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaKrimi.png",Nova Krimi  HD
 http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVA.LADY.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaLady.png",Nova Lady  HD
+#EXTINF:-1 tvg-id="NOVALADY.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/NovaLady.png",Nova Lady  HD
 http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="BARRANDOV.TV.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/TVBarrandov.png",TV Barrandov  HD
 http://88.212.15.47/live/test_barrandov/playlist.m3u8
