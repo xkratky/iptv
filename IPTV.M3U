@@ -151,3 +151,5 @@ http://88.212.15.47/live/test_park_tv/playlist.m3u8
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
 http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ZAČÍNAME.S.VOYO.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Infokanál  HD
+http://88.212.15.47/live/test_infokanal_tizen/playlist.m3u8
