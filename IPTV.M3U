@@ -13,7 +13,7 @@ http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
 http://88.212.15.47/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT:D/ČTart.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT6.png",CT art  HD
 http://88.212.15.47/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Prima.png",Prima  HD
+#EXTINF:-1 tvg-id="PRIMA.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Prima.png",Prima  HD
 http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIMA COOL.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/PrimaCOOL.png",Prima COOL  HD
 http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
