@@ -139,10 +139,6 @@ http://88.212.15.47/live/test_park_tv/playlist.m3u8
 http://88.212.15.47/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Sport2.png",Sport 2  HD
 http://88.212.15.47/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.ENGLISH.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CGTN.png",CGTN
-http://88.212.15.47/live/test_cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.DOCUMENTARY.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CGTN2.png",CGTN Documentary
-http://88.212.15.47/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 JM  HD
 http://88.212.15.47/live/test_ct_jm_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 JM  HD
@@ -153,6 +149,12 @@ http://88.212.15.47/live/test_ct_sm_avc_25p/playlist.m3u8
 http://88.212.15.47/live/ct_jzc_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1 SVC  HD
 http://88.212.15.47/live/ct_svc_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CGTN.png",CGTN
+http://88.212.15.47/live/test_cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CGTN2.png",CGTN Documentary
+http://88.212.15.47/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CGTN2.png",KCTV
+https://streamer.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Tance.png",Tanečné súťaže  HD
 http://88.212.15.47/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Antik.png",Poslanecká sněmovna ČR  HD
