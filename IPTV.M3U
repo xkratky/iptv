@@ -1,17 +1,17 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD
+#EXTINF:-1 tvg-id="CNN.PRIMA.NEWS.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CNNPrima.png",CNN Prima News  HD 🇨🇿
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",CT 1  HD
+#EXTINF:-1 tvg-id="ČT1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png",ČT 1  HD 🇨🇿
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png",CT 2  HD
+#EXTINF:-1 tvg-id="ČT2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png",ČT 2  HD 🇨🇿
 http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT24.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT24.png",CT 24  HD
+#EXTINF:-1 tvg-id="ČT24.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT24.png",ČT 24  HD 🇨🇿
 http://88.212.15.47/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.SPORT.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT4.png",CT Sport  HD
+#EXTINF:-1 tvg-id="ČT.SPORT.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT4.png",CT 4 Sport  HD 🇨🇿
 http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.:D.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT5.png",CT :D  HD
+#EXTINF:-1 tvg-id="ČT.:D.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT5.png",CT 5 :D  HD 🇨🇿
 http://88.212.15.47/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.ART.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT6.png",CT art  HD
+#EXTINF:-1 tvg-id="ČT.ART.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT6.png",CT 6 art  HD 🇨🇿
 http://88.212.15.47/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIMA.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Prima.png",Prima  HD
 http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
