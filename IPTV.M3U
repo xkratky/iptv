@@ -57,6 +57,8 @@ http://88.212.15.47/live/test_cs_film_avc_25p/playlist.m3u8
 http://88.212.15.47/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CS.MYSTERY.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CSMystery.png",CS Mystery  HD
 http://88.212.15.47/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="SEZNAM.CZ.TV.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Seznam.png",TV Seznam  HD
+http://88.212.15.47/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JEDNOTKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Jednotka.png",Jednotka  HD
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DVOJKA.HD.SK" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/Dvojka.png",Dvojka  HD
